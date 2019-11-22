@@ -1,0 +1,1032 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+  <metric id="2103000" originalName="DomainModelEntityClone" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103000" originalName="DomainModelEntityClone" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103000" originalName="DomainModelEntityClone" section="name" type="quality_rule">
+    <english>DomainModelEntityClone</english>
+  </metric>
+  <metric id="2103000" originalName="DomainModelEntityClone" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103000" originalName="DomainModelEntityClone" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103000" originalName="DomainModelEntityClone" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103000" originalName="DomainModelEntityClone" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103002" originalName="AvoidExcessiveCrossModuleAssociations" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103002" originalName="AvoidExcessiveCrossModuleAssociations" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103002" originalName="AvoidExcessiveCrossModuleAssociations" section="name" type="quality_rule">
+    <english>AvoidExcessiveCrossModuleAssociations</english>
+  </metric>
+  <metric id="2103002" originalName="AvoidExcessiveCrossModuleAssociations" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103002" originalName="AvoidExcessiveCrossModuleAssociations" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103002" originalName="AvoidExcessiveCrossModuleAssociations" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103002" originalName="AvoidExcessiveCrossModuleAssociations" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103004" originalName="AvoidAppStoreModuleChanges" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103004" originalName="AvoidAppStoreModuleChanges" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103004" originalName="AvoidAppStoreModuleChanges" section="name" type="quality_rule">
+    <english>AvoidAppStoreModuleChanges</english>
+  </metric>
+  <metric id="2103004" originalName="AvoidAppStoreModuleChanges" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103004" originalName="AvoidAppStoreModuleChanges" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103004" originalName="AvoidAppStoreModuleChanges" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103004" originalName="AvoidAppStoreModuleChanges" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103006" originalName="AvoidDocumentsInModuleRoot" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103006" originalName="AvoidDocumentsInModuleRoot" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103006" originalName="AvoidDocumentsInModuleRoot" section="name" type="quality_rule">
+    <english>AvoidDocumentsInModuleRoot</english>
+  </metric>
+  <metric id="2103006" originalName="AvoidDocumentsInModuleRoot" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103006" originalName="AvoidDocumentsInModuleRoot" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103006" originalName="AvoidDocumentsInModuleRoot" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103006" originalName="AvoidDocumentsInModuleRoot" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103008" originalName="TooManyResourcesInFolder" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103008" originalName="TooManyResourcesInFolder" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103008" originalName="TooManyResourcesInFolder" section="name" type="quality_rule">
+    <english>TooManyResourcesInFolder</english>
+  </metric>
+  <metric id="2103008" originalName="TooManyResourcesInFolder" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103008" originalName="TooManyResourcesInFolder" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103008" originalName="TooManyResourcesInFolder" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103008" originalName="TooManyResourcesInFolder" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103010" originalName="MissingSubfoldersForEntity" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103010" originalName="MissingSubfoldersForEntity" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103010" originalName="MissingSubfoldersForEntity" section="name" type="quality_rule">
+    <english>MissingSubfoldersForEntity</english>
+  </metric>
+  <metric id="2103010" originalName="MissingSubfoldersForEntity" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103010" originalName="MissingSubfoldersForEntity" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103010" originalName="MissingSubfoldersForEntity" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103010" originalName="MissingSubfoldersForEntity" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103012" originalName="NumberOfEntities" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103012" originalName="NumberOfEntities" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103012" originalName="NumberOfEntities" section="name" type="quality_rule">
+    <english>NumberOfEntities</english>
+  </metric>
+  <metric id="2103012" originalName="NumberOfEntities" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103012" originalName="NumberOfEntities" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103012" originalName="NumberOfEntities" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103012" originalName="NumberOfEntities" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103014" originalName="NumberOfModules" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103014" originalName="NumberOfModules" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103014" originalName="NumberOfModules" section="name" type="quality_rule">
+    <english>NumberOfModules</english>
+  </metric>
+  <metric id="2103014" originalName="NumberOfModules" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103014" originalName="NumberOfModules" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103014" originalName="NumberOfModules" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103014" originalName="NumberOfModules" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103016" originalName="AvoidComplexLogic" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103016" originalName="AvoidComplexLogic" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103016" originalName="AvoidComplexLogic" section="name" type="quality_rule">
+    <english>AvoidComplexLogic</english>
+  </metric>
+  <metric id="2103016" originalName="AvoidComplexLogic" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103016" originalName="AvoidComplexLogic" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103016" originalName="AvoidComplexLogic" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103016" originalName="AvoidComplexLogic" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103018" originalName="FanInCoupling" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103018" originalName="FanInCoupling" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103018" originalName="FanInCoupling" section="name" type="quality_rule">
+    <english>FanInCoupling</english>
+  </metric>
+  <metric id="2103018" originalName="FanInCoupling" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103018" originalName="FanInCoupling" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103018" originalName="FanInCoupling" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103018" originalName="FanInCoupling" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103020" originalName="AvoidComplexUnits" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103020" originalName="AvoidComplexUnits" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103020" originalName="AvoidComplexUnits" section="name" type="quality_rule">
+    <english>AvoidComplexUnits</english>
+  </metric>
+  <metric id="2103020" originalName="AvoidComplexUnits" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103020" originalName="AvoidComplexUnits" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103020" originalName="AvoidComplexUnits" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103020" originalName="AvoidComplexUnits" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103022" originalName="AvoidLongUnits" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103022" originalName="AvoidLongUnits" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103022" originalName="AvoidLongUnits" section="name" type="quality_rule">
+    <english>AvoidLongUnits</english>
+  </metric>
+  <metric id="2103022" originalName="AvoidLongUnits" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103022" originalName="AvoidLongUnits" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103022" originalName="AvoidLongUnits" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103022" originalName="AvoidLongUnits" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103024" originalName="Wrong4ColumnLayoutGrid" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103024" originalName="Wrong4ColumnLayoutGrid" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103024" originalName="Wrong4ColumnLayoutGrid" section="name" type="quality_rule">
+    <english>Wrong4ColumnLayoutGrid</english>
+  </metric>
+  <metric id="2103024" originalName="Wrong4ColumnLayoutGrid" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103024" originalName="Wrong4ColumnLayoutGrid" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103024" originalName="Wrong4ColumnLayoutGrid" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103024" originalName="Wrong4ColumnLayoutGrid" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103026" originalName="MissingFolderForEntity" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103026" originalName="MissingFolderForEntity" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103026" originalName="MissingFolderForEntity" section="name" type="quality_rule">
+    <english>MissingFolderForEntity</english>
+  </metric>
+  <metric id="2103026" originalName="MissingFolderForEntity" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103026" originalName="MissingFolderForEntity" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103026" originalName="MissingFolderForEntity" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103026" originalName="MissingFolderForEntity" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103028" originalName="ModelDeleteBehavior" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103028" originalName="ModelDeleteBehavior" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103028" originalName="ModelDeleteBehavior" section="name" type="quality_rule">
+    <english>ModelDeleteBehavior</english>
+  </metric>
+  <metric id="2103028" originalName="ModelDeleteBehavior" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103028" originalName="ModelDeleteBehavior" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103028" originalName="ModelDeleteBehavior" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103028" originalName="ModelDeleteBehavior" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103030" originalName="AvoidCalculatedAttributesWithDatabaseInteraction" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103030" originalName="AvoidCalculatedAttributesWithDatabaseInteraction" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103030" originalName="AvoidCalculatedAttributesWithDatabaseInteraction" section="name" type="quality_rule">
+    <english>AvoidCalculatedAttributesWithDatabaseInteraction</english>
+  </metric>
+  <metric id="2103030" originalName="AvoidCalculatedAttributesWithDatabaseInteraction" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103030" originalName="AvoidCalculatedAttributesWithDatabaseInteraction" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103030" originalName="AvoidCalculatedAttributesWithDatabaseInteraction" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103030" originalName="AvoidCalculatedAttributesWithDatabaseInteraction" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103032" originalName="AvoidCommitInBeforeAndAfterCommitAction" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103032" originalName="AvoidCommitInBeforeAndAfterCommitAction" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103032" originalName="AvoidCommitInBeforeAndAfterCommitAction" section="name" type="quality_rule">
+    <english>AvoidCommitInBeforeAndAfterCommitAction</english>
+  </metric>
+  <metric id="2103032" originalName="AvoidCommitInBeforeAndAfterCommitAction" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103032" originalName="AvoidCommitInBeforeAndAfterCommitAction" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103032" originalName="AvoidCommitInBeforeAndAfterCommitAction" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103032" originalName="AvoidCommitInBeforeAndAfterCommitAction" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103034" originalName="AvoidInheritanceAdministrationAccount" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103034" originalName="AvoidInheritanceAdministrationAccount" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103034" originalName="AvoidInheritanceAdministrationAccount" section="name" type="quality_rule">
+    <english>AvoidInheritanceAdministrationAccount</english>
+  </metric>
+  <metric id="2103034" originalName="AvoidInheritanceAdministrationAccount" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103034" originalName="AvoidInheritanceAdministrationAccount" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103034" originalName="AvoidInheritanceAdministrationAccount" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103034" originalName="AvoidInheritanceAdministrationAccount" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103036" originalName="AvoidInheritanceExceptSystemModule" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103036" originalName="AvoidInheritanceExceptSystemModule" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103036" originalName="AvoidInheritanceExceptSystemModule" section="name" type="quality_rule">
+    <english>AvoidInheritanceExceptSystemModule</english>
+  </metric>
+  <metric id="2103036" originalName="AvoidInheritanceExceptSystemModule" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103036" originalName="AvoidInheritanceExceptSystemModule" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103036" originalName="AvoidInheritanceExceptSystemModule" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103036" originalName="AvoidInheritanceExceptSystemModule" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103038" originalName="AvoidMultipleInheritance" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103038" originalName="AvoidMultipleInheritance" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103038" originalName="AvoidMultipleInheritance" section="name" type="quality_rule">
+    <english>AvoidMultipleInheritance</english>
+  </metric>
+  <metric id="2103038" originalName="AvoidMultipleInheritance" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103038" originalName="AvoidMultipleInheritance" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103038" originalName="AvoidMultipleInheritance" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103038" originalName="AvoidMultipleInheritance" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103040" originalName="AvoidTooMuchCalculatedAttributes" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103040" originalName="AvoidTooMuchCalculatedAttributes" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103040" originalName="AvoidTooMuchCalculatedAttributes" section="name" type="quality_rule">
+    <english>AvoidTooMuchCalculatedAttributes</english>
+  </metric>
+  <metric id="2103040" originalName="AvoidTooMuchCalculatedAttributes" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103040" originalName="AvoidTooMuchCalculatedAttributes" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103040" originalName="AvoidTooMuchCalculatedAttributes" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103040" originalName="AvoidTooMuchCalculatedAttributes" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103042" originalName="InconsistentAssociationName" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103042" originalName="InconsistentAssociationName" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103042" originalName="InconsistentAssociationName" section="name" type="quality_rule">
+    <english>InconsistentAssociationName</english>
+  </metric>
+  <metric id="2103042" originalName="InconsistentAssociationName" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103042" originalName="InconsistentAssociationName" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103042" originalName="InconsistentAssociationName" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103042" originalName="InconsistentAssociationName" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103044" originalName="AvoidExactlyDuplicatedMicroflow" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103044" originalName="AvoidExactlyDuplicatedMicroflow" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103044" originalName="AvoidExactlyDuplicatedMicroflow" section="name" type="quality_rule">
+    <english>AvoidExactlyDuplicatedMicroflow</english>
+  </metric>
+  <metric id="2103044" originalName="AvoidExactlyDuplicatedMicroflow" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103044" originalName="AvoidExactlyDuplicatedMicroflow" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103044" originalName="AvoidExactlyDuplicatedMicroflow" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103044" originalName="AvoidExactlyDuplicatedMicroflow" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103046" originalName="AvoidPartiallyDuplicatedMicroflow" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103046" originalName="AvoidPartiallyDuplicatedMicroflow" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103046" originalName="AvoidPartiallyDuplicatedMicroflow" section="name" type="quality_rule">
+    <english>AvoidPartiallyDuplicatedMicroflow</english>
+  </metric>
+  <metric id="2103046" originalName="AvoidPartiallyDuplicatedMicroflow" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103046" originalName="AvoidPartiallyDuplicatedMicroflow" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103046" originalName="AvoidPartiallyDuplicatedMicroflow" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103046" originalName="AvoidPartiallyDuplicatedMicroflow" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103048" originalName="AvoidCreateFileDocOrImage" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103048" originalName="AvoidCreateFileDocOrImage" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103048" originalName="AvoidCreateFileDocOrImage" section="name" type="quality_rule">
+    <english>AvoidCreateFileDocOrImage</english>
+  </metric>
+  <metric id="2103048" originalName="AvoidCreateFileDocOrImage" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103048" originalName="AvoidCreateFileDocOrImage" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103048" originalName="AvoidCreateFileDocOrImage" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103048" originalName="AvoidCreateFileDocOrImage" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103050" originalName="OutdatedGenerateDocumentUsed" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103050" originalName="OutdatedGenerateDocumentUsed" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103050" originalName="OutdatedGenerateDocumentUsed" section="name" type="quality_rule">
+    <english>OutdatedGenerateDocumentUsed</english>
+  </metric>
+  <metric id="2103050" originalName="OutdatedGenerateDocumentUsed" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103050" originalName="OutdatedGenerateDocumentUsed" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103050" originalName="OutdatedGenerateDocumentUsed" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103050" originalName="OutdatedGenerateDocumentUsed" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103052" originalName="RetrieveResultOnlyUsedInFilter" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103052" originalName="RetrieveResultOnlyUsedInFilter" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103052" originalName="RetrieveResultOnlyUsedInFilter" section="name" type="quality_rule">
+    <english>RetrieveResultOnlyUsedInFilter</english>
+  </metric>
+  <metric id="2103052" originalName="RetrieveResultOnlyUsedInFilter" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103052" originalName="RetrieveResultOnlyUsedInFilter" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103052" originalName="RetrieveResultOnlyUsedInFilter" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103052" originalName="RetrieveResultOnlyUsedInFilter" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103054" originalName="NumberOfActivities" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103054" originalName="NumberOfActivities" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103054" originalName="NumberOfActivities" section="name" type="quality_rule">
+    <english>NumberOfActivities</english>
+  </metric>
+  <metric id="2103054" originalName="NumberOfActivities" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103054" originalName="NumberOfActivities" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103054" originalName="NumberOfActivities" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103054" originalName="NumberOfActivities" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103056" originalName="MicroflowNestingTooDeep" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103056" originalName="MicroflowNestingTooDeep" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103056" originalName="MicroflowNestingTooDeep" section="name" type="quality_rule">
+    <english>MicroflowNestingTooDeep</english>
+  </metric>
+  <metric id="2103056" originalName="MicroflowNestingTooDeep" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103056" originalName="MicroflowNestingTooDeep" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103056" originalName="MicroflowNestingTooDeep" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103056" originalName="MicroflowNestingTooDeep" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103058" originalName="UseOneAggregatePerRetrieve" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103058" originalName="UseOneAggregatePerRetrieve" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103058" originalName="UseOneAggregatePerRetrieve" section="name" type="quality_rule">
+    <english>UseOneAggregatePerRetrieve</english>
+  </metric>
+  <metric id="2103058" originalName="UseOneAggregatePerRetrieve" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103058" originalName="UseOneAggregatePerRetrieve" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103058" originalName="UseOneAggregatePerRetrieve" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103058" originalName="UseOneAggregatePerRetrieve" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103060" originalName="NumberOfAttributes" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103060" originalName="NumberOfAttributes" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103060" originalName="NumberOfAttributes" section="name" type="quality_rule">
+    <english>NumberOfAttributes</english>
+  </metric>
+  <metric id="2103060" originalName="NumberOfAttributes" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103060" originalName="NumberOfAttributes" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103060" originalName="NumberOfAttributes" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103060" originalName="NumberOfAttributes" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103062" originalName="ConditionalVisibilityNestingTooDeep" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103062" originalName="ConditionalVisibilityNestingTooDeep" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103062" originalName="ConditionalVisibilityNestingTooDeep" section="name" type="quality_rule">
+    <english>ConditionalVisibilityNestingTooDeep</english>
+  </metric>
+  <metric id="2103062" originalName="ConditionalVisibilityNestingTooDeep" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103062" originalName="ConditionalVisibilityNestingTooDeep" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103062" originalName="ConditionalVisibilityNestingTooDeep" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103062" originalName="ConditionalVisibilityNestingTooDeep" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103064" originalName="AvoidMFNameAsStringLiteralInJACall" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103064" originalName="AvoidMFNameAsStringLiteralInJACall" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103064" originalName="AvoidMFNameAsStringLiteralInJACall" section="name" type="quality_rule">
+    <english>AvoidMFNameAsStringLiteralInJACall</english>
+  </metric>
+  <metric id="2103064" originalName="AvoidMFNameAsStringLiteralInJACall" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103064" originalName="AvoidMFNameAsStringLiteralInJACall" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103064" originalName="AvoidMFNameAsStringLiteralInJACall" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103064" originalName="AvoidMFNameAsStringLiteralInJACall" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103066" originalName="AvoidLargeInterfaces" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103066" originalName="AvoidLargeInterfaces" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103066" originalName="AvoidLargeInterfaces" section="name" type="quality_rule">
+    <english>AvoidLargeInterfaces</english>
+  </metric>
+  <metric id="2103066" originalName="AvoidLargeInterfaces" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103066" originalName="AvoidLargeInterfaces" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103066" originalName="AvoidLargeInterfaces" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103066" originalName="AvoidLargeInterfaces" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103068" originalName="SameRetrieveByAssocUsedInForm" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103068" originalName="SameRetrieveByAssocUsedInForm" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103068" originalName="SameRetrieveByAssocUsedInForm" section="name" type="quality_rule">
+    <english>SameRetrieveByAssocUsedInForm</english>
+  </metric>
+  <metric id="2103068" originalName="SameRetrieveByAssocUsedInForm" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103068" originalName="SameRetrieveByAssocUsedInForm" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103068" originalName="SameRetrieveByAssocUsedInForm" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103068" originalName="SameRetrieveByAssocUsedInForm" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103070" originalName="StylePropertyUsed" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103070" originalName="StylePropertyUsed" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103070" originalName="StylePropertyUsed" section="name" type="quality_rule">
+    <english>StylePropertyUsed</english>
+  </metric>
+  <metric id="2103070" originalName="StylePropertyUsed" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103070" originalName="StylePropertyUsed" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103070" originalName="StylePropertyUsed" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103070" originalName="StylePropertyUsed" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103072" originalName="ReferenceSelectorWithEditableNever" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103072" originalName="ReferenceSelectorWithEditableNever" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103072" originalName="ReferenceSelectorWithEditableNever" section="name" type="quality_rule">
+    <english>ReferenceSelectorWithEditableNever</english>
+  </metric>
+  <metric id="2103072" originalName="ReferenceSelectorWithEditableNever" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103072" originalName="ReferenceSelectorWithEditableNever" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103072" originalName="ReferenceSelectorWithEditableNever" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103072" originalName="ReferenceSelectorWithEditableNever" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103074" originalName="SameMicroflowUsedInForm" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103074" originalName="SameMicroflowUsedInForm" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103074" originalName="SameMicroflowUsedInForm" section="name" type="quality_rule">
+    <english>SameMicroflowUsedInForm</english>
+  </metric>
+  <metric id="2103074" originalName="SameMicroflowUsedInForm" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103074" originalName="SameMicroflowUsedInForm" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103074" originalName="SameMicroflowUsedInForm" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103074" originalName="SameMicroflowUsedInForm" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103076" originalName="UseOfTablesWithinDataview" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103076" originalName="UseOfTablesWithinDataview" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103076" originalName="UseOfTablesWithinDataview" section="name" type="quality_rule">
+    <english>UseOfTablesWithinDataview</english>
+  </metric>
+  <metric id="2103076" originalName="UseOfTablesWithinDataview" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103076" originalName="UseOfTablesWithinDataview" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103076" originalName="UseOfTablesWithinDataview" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103076" originalName="UseOfTablesWithinDataview" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103078" originalName="ButtonUsesImageInsteadOfIcon" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103078" originalName="ButtonUsesImageInsteadOfIcon" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103078" originalName="ButtonUsesImageInsteadOfIcon" section="name" type="quality_rule">
+    <english>ButtonUsesImageInsteadOfIcon</english>
+  </metric>
+  <metric id="2103078" originalName="ButtonUsesImageInsteadOfIcon" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103078" originalName="ButtonUsesImageInsteadOfIcon" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103078" originalName="ButtonUsesImageInsteadOfIcon" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103078" originalName="ButtonUsesImageInsteadOfIcon" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103080" originalName="DataviewWithOnlyADataview" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103080" originalName="DataviewWithOnlyADataview" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103080" originalName="DataviewWithOnlyADataview" section="name" type="quality_rule">
+    <english>DataviewWithOnlyADataview</english>
+  </metric>
+  <metric id="2103080" originalName="DataviewWithOnlyADataview" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103080" originalName="DataviewWithOnlyADataview" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103080" originalName="DataviewWithOnlyADataview" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103080" originalName="DataviewWithOnlyADataview" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103082" originalName="MaximumNumberofButtons" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103082" originalName="MaximumNumberofButtons" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103082" originalName="MaximumNumberofButtons" section="name" type="quality_rule">
+    <english>MaximumNumberofButtons</english>
+  </metric>
+  <metric id="2103082" originalName="MaximumNumberofButtons" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103082" originalName="MaximumNumberofButtons" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103082" originalName="MaximumNumberofButtons" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103082" originalName="MaximumNumberofButtons" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103084" originalName="StringEmptyCheckNotComplete" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103084" originalName="StringEmptyCheckNotComplete" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103084" originalName="StringEmptyCheckNotComplete" section="name" type="quality_rule">
+    <english>StringEmptyCheckNotComplete</english>
+  </metric>
+  <metric id="2103084" originalName="StringEmptyCheckNotComplete" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103084" originalName="StringEmptyCheckNotComplete" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103084" originalName="StringEmptyCheckNotComplete" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103084" originalName="StringEmptyCheckNotComplete" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103086" originalName="NoLogMessageInErrorHandling" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103086" originalName="NoLogMessageInErrorHandling" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103086" originalName="NoLogMessageInErrorHandling" section="name" type="quality_rule">
+    <english>NoLogMessageInErrorHandling</english>
+  </metric>
+  <metric id="2103086" originalName="NoLogMessageInErrorHandling" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103086" originalName="NoLogMessageInErrorHandling" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103086" originalName="NoLogMessageInErrorHandling" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103086" originalName="NoLogMessageInErrorHandling" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103088" originalName="ExclusiveSplitMustHaveCaption" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103088" originalName="ExclusiveSplitMustHaveCaption" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103088" originalName="ExclusiveSplitMustHaveCaption" section="name" type="quality_rule">
+    <english>ExclusiveSplitMustHaveCaption</english>
+  </metric>
+  <metric id="2103088" originalName="ExclusiveSplitMustHaveCaption" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103088" originalName="ExclusiveSplitMustHaveCaption" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103088" originalName="ExclusiveSplitMustHaveCaption" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103088" originalName="ExclusiveSplitMustHaveCaption" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103090" originalName="UnusedMergeActivity" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103090" originalName="UnusedMergeActivity" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103090" originalName="UnusedMergeActivity" section="name" type="quality_rule">
+    <english>UnusedMergeActivity</english>
+  </metric>
+  <metric id="2103090" originalName="UnusedMergeActivity" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103090" originalName="UnusedMergeActivity" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103090" originalName="UnusedMergeActivity" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103090" originalName="UnusedMergeActivity" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103092" originalName="AvoidCommitInLoop" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103092" originalName="AvoidCommitInLoop" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103092" originalName="AvoidCommitInLoop" section="name" type="quality_rule">
+    <english>AvoidCommitInLoop</english>
+  </metric>
+  <metric id="2103092" originalName="AvoidCommitInLoop" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103092" originalName="AvoidCommitInLoop" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103092" originalName="AvoidCommitInLoop" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103092" originalName="AvoidCommitInLoop" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103094" originalName="RetrieveByAssocEmptyCheck" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103094" originalName="RetrieveByAssocEmptyCheck" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103094" originalName="RetrieveByAssocEmptyCheck" section="name" type="quality_rule">
+    <english>RetrieveByAssocEmptyCheck</english>
+  </metric>
+  <metric id="2103094" originalName="RetrieveByAssocEmptyCheck" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103094" originalName="RetrieveByAssocEmptyCheck" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103094" originalName="RetrieveByAssocEmptyCheck" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103094" originalName="RetrieveByAssocEmptyCheck" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+  <metric id="2103096" originalName="AvoidDuplicatedPage" section="associatedValueName" type="quality_rule">
+    <english>Number of violation pattern</english>
+  </metric>
+  <metric id="2103096" originalName="AvoidDuplicatedPage" section="description" type="quality_rule">
+    <english>This quality rules has been computed by a third-party analyzer and integrated in AIP on the matching source file.</english>
+  </metric>
+  <metric id="2103096" originalName="AvoidDuplicatedPage" section="name" type="quality_rule">
+    <english>AvoidDuplicatedPage</english>
+  </metric>
+  <metric id="2103096" originalName="AvoidDuplicatedPage" section="output" type="quality_rule">
+    <english>Associated to each artifact with violations, the Quality Rule provides: - The number of violation patterns - Bookmarks for violation patterns found in source code.</english>
+  </metric>
+  <metric id="2103096" originalName="AvoidDuplicatedPage" section="rationale" type="quality_rule">
+    <english>A rationale from CSV file</english>
+  </metric>
+  <metric id="2103096" originalName="AvoidDuplicatedPage" section="remediation" type="quality_rule">
+    <english>A remediation from CSV file</english>
+  </metric>
+  <metric id="2103096" originalName="AvoidDuplicatedPage" section="total" type="quality_rule">
+    <english>Number of source files (types inheriting from category APM Sources)</english>
+  </metric>
+</root>

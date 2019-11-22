@@ -1,0 +1,9 @@
+ApplicationName;Severity;AffectedSource;AffectedSourceLine;object_id;MasterFindingName
+OmNext;3;\Dala\SRC\Dala.Utilities\Properties\AssemblyInfo.cs;20;5049675;Blind_SQL_Injections
+OmNext;2;\Dala\SRC\Dala.Utilities\CsvUtility.cs;41;5049677;Rule_XYZ_unknown
+OmNext;1;\Dala\SRC\Dala.Utilities\CsvUtility.cs;40;21051952;Heuristic_SQL_Injection
+OmNext;1;\Dala\SRC\Dala.Utilities\SessionManager.cs;216;21259;Heuristic_SQL_Injection
+OmNext;1;\Dala\SRC\Dala.Utilities\File_unknown_IN_KB.cs;216;21259;Heuristic_SQL_Injection
+OmNext;-2;\Dala\SRC\Dala.Utilities\PdfUtility.cs;106;21051953;Dynamic_SQL_Queries
+OmNext;-1;\Dala\SRC\Dala.Utilities\PdfUtility.cs;106;1111;Heuristic_XSRF
+OmNext;0;\Dala\SRC\Dala.Utilities\PdfUtility.cs;106;222;Command_Injection

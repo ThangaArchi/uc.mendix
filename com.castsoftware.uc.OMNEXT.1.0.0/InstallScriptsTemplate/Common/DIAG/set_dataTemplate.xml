@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<DATA model="OBJSET" version="1.0.0.0" scope="OBJSETINIT" export="OK">
+	<SET_Definitions>
+	    <SetId>{{FROM-RANGE-ID}}</SetId>
+	    <SetName>{{FUNCTION-NAME}}</SetName>
+	    <SetType>DIAG_SCOPE</SetType>
+	    <SetProcedure>{{FUNCTION-NAME_FROM-RANGE-ID}}</SetProcedure>
+	</SET_Definitions>	
+
+</DATA>
